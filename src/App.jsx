@@ -170,16 +170,24 @@ const CONTENT = {
         id: "creed",
         kind: "text",
         title: "JCI Creed",
-        keepLineBreaks: true,
-        paragraphs: ["We Believe:That faith in God gives meaning and purpose to human life;That the brotherhood of man transcends the sovereignty of nations;That economic justice can best be won by free men through free enterprise;That government should be of laws rather than of men;That earth’s great treasure lies in human personality;And that service to humanity is the best work of life."],
+        // One line per pair of quotes. Keep the comma after each line.
+        paragraphs: [
+          "We Believe:",
+          "That faith in God gives meaning and purpose to human life;",
+          "That the brotherhood of man transcends the sovereignty of nations;",
+          "That economic justice can best be won by free men through free enterprise;",
+          "That government should be of laws rather than of men;",
+          "That earth’s great treasure lies in human personality;",
+          "And that service to humanity is the best work of life.",
+        ],
         note: "You'll recite this from memory before induction (Step 6).",
       },
       {
         id: "prayer",
         kind: "text",
         title: "JCI Prayer",
-        keepLineBreaks: true,
-        paragraphs: ["We reaffirm our conviction that faith in God gives meaning and purpose to human life. May the Lord guide us in all our undertakings."],
+        // One line per pair of quotes, like the Creed above.
+        paragraphs: ["[PASTE OFFICIAL TEXT FROM JCI PHILIPPINES]"],
         note: "You'll recite this from memory before induction (Step 6).",
       },
       {
@@ -187,7 +195,7 @@ const CONTENT = {
         kind: "text",
         title: "About JCI Alabang",
         paragraphs: [
-          "JCI Alabang is an active local chapter of Junior Chamber International (JCI) Philippines in Muntinlupa City celebrating its 27th year of service and leadership in 2026.",
+          "[TO BE PROVIDED: chapter history, founding year and signature projects.]",
         ],
       },
       {
@@ -294,7 +302,7 @@ const CONTENT = {
     },
     {
       role: "Secretary General",
-      name: "Jessica Osias",
+      name: "[NAME]",
       helpsWith: "Official membership records.",
     },
   ],
