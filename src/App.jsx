@@ -187,7 +187,7 @@ const CONTENT = {
         kind: "text",
         title: "JCI Prayer",
         // One line per pair of quotes, like the Creed above.
-        paragraphs: ["[PASTE OFFICIAL TEXT FROM JCI PHILIPPINES]"],
+        paragraphs: ["We reaffirm our conviction that faith in God gives meaning and purpose to human life. May the Lord guide us in all our undertakings."],
         note: "You'll recite this from memory before induction (Step 6).",
       },
       {
@@ -195,7 +195,7 @@ const CONTENT = {
         kind: "text",
         title: "About JCI Alabang",
         paragraphs: [
-          "[TO BE PROVIDED: chapter history, founding year and signature projects.]",
+          "JCI Alabang is a premier local chapter of Junior Chamber International Philippines based in Muntinlupa, Metro Manila. For 27 years, the chapter has been dedicated to empowering young active citizens aged 18 to 40 by fostering leadership development, driving sustainable community development, and creating meaningful social impact across the region.",
         ],
       },
       {
@@ -302,7 +302,7 @@ const CONTENT = {
     },
     {
       role: "Secretary General",
-      name: "[NAME]",
+      name: "Jessica Osias",
       helpsWith: "Official membership records.",
     },
   ],
