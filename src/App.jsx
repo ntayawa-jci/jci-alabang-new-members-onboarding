@@ -187,7 +187,8 @@ const CONTENT = {
         kind: "text",
         title: "JCI Prayer",
         // One line per pair of quotes, like the Creed above.
-        paragraphs: ["We reaffirm our conviction that faith in God gives meaning and purpose to human life. May the Lord guide us in all our undertakings."],
+        paragraphs: [
+          "We reaffirm our conviction that faith in God gives meaning and purpose to human life. May the Lord guide us in all our undertakings."],
         note: "You'll recite this from memory before induction (Step 6).",
       },
       {
