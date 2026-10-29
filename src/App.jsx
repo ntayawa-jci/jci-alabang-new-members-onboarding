@@ -172,13 +172,13 @@ const CONTENT = {
         title: "JCI Creed",
         keepLineBreaks: true,
         // Paste the official text between the quotes. Use \n for a new line.
-        paragraphs: ["We Believe: 
-                     That faith in God gives meaning and purpose to human life;
-                     That the brotherhood of man transcends the sovereignty of nations;
-                     That economic justice can best be won by free men through free enterprise;
-                     That government should be of laws rather than of men;
-                     That earth’s great treasure lies in human personality;
-                     And that service to humanity is the best work of life."],
+        paragraphs: ['We Believe: 
+                     "That faith in God gives meaning and purpose to human life;"
+                     "That the brotherhood of man transcends the sovereignty of nations;"
+                     "That economic justice can best be won by free men through free enterprise;"
+                     "That government should be of laws rather than of men;"
+                     "That earth’s great treasure lies in human personality;"
+                     "And that service to humanity is the best work of life.'],
         note: "You'll recite this from memory before induction (Step 6).",
       },
       {
