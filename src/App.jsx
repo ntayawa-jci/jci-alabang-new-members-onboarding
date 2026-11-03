@@ -548,7 +548,7 @@ const CONTENT = {
         isRequirement: false,
         highlight: "induction",
         timing: "March 2027 (date TBC)",
-        owner: "VPI and Secretary General",
+        owner: "VPI and Secretary",
         whatCounts: ["Steps 1 to 6 done, with final approval from the VPI."],
         tips: ["[CHAPTER TO CONFIRM: what to wear and bring on induction day.]"],
       },
@@ -588,7 +588,7 @@ const CONTENT = {
         items: [
           { label: "OTI Registration", href: "https://forms.gle/793u1AQaE6K5qRDDA", description: "Sign up for the next Opportunity to Impact session." },
           { label: "Membership Application Form", href: "https://forms.gle/DrK6DtndwR9axzF66", description: "Fill this in after your Opportunity to Impact." },
-          { label: "Membership Dues Payment", href: "https://forms.gle/7jtnJFCnrUfRdH4g9", description: "Instructions for annual membership payment" },
+          { label: "Membership Dues Payment", href: "https://forms.gle/AjkWxXnaJ5LDxRFi9", description: "Instructions for annual membership payment" },
         ],
       },
       {
