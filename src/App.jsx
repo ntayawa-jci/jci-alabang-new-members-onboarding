@@ -586,9 +586,9 @@ const CONTENT = {
       {
         title: "Get started",
         items: [
-          { label: "OTI registration", href: "#", description: "Sign up for the next Opportunity to Impact session." },
-          { label: "Membership application form", href: "#", description: "Fill this in after your OTI." },
-          { label: "Dues payment instructions", href: "#", description: "[CHAPTER TO CONFIRM: amount and how to pay.]" },
+          { label: "OTI Registration", href: "https://forms.gle/793u1AQaE6K5qRDDA", description: "Sign up for the next Opportunity to Impact session." },
+          { label: "Membership Application Form", href: "https://forms.gle/DrK6DtndwR9axzF66", description: "Fill this in after your Opportunity to Impact." },
+          { label: "Membership Dues Payment", href: "https://forms.gle/7jtnJFCnrUfRdH4g9", description: "Instructions for annual membership payment" },
         ],
       },
       {
